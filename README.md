@@ -40,9 +40,9 @@ The same three-person team owns both repositories. Primary focus areas are noted
 
 | Name | GitHub | Primary Focus |
 |---|---|---|
-| _[Member 1 — Full Name]_ | `@handle` | Backend & Data Engineering Lead |
-| _[Member 2 — Full Name]_ | `@handle` | Cloud Infrastructure & DevOps (AWS) |
-| _[Member 3 — Full Name]_ | `@handle` | Frontend & Visualization Engineer |
+| _Fernando Uriel De Luna Fernandez_ | `@handle` | Backend & Data Engineering Lead |
+| _Jessie Alejandro Jimenez Echeverria_ | `@ChechiUTR` | Cloud Infrastructure & DevOps (AWS) |
+| _Joshua Ivan Martinez Vazquez_ | `@handle` | Frontend & Visualization Engineer |
 
 > Replace the placeholders above with real names and GitHub handles before the first sprint.
 
